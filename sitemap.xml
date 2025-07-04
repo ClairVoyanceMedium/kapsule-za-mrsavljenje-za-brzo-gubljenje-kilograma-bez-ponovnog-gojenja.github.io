@@ -1,104 +1,326 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
-        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    <!-- 🔥 Page d'accueil (Priorité maximale) -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/</loc>
-        <lastmod>2025-02-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <image:image>
-            <image:loc>https://clairvoyancemedium.github.io/images/homepage-main.jpg</image:loc>
-            <image:title>Retrouver l'Amour Rapidement</image:title>
-            <image:caption>Techniques puissantes pour attirer et garder l'amour.</image:caption>
-        </image:image>
-    </url>
-
-    <!-- 🔍 Pages principales -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/rituels-amour/</loc>
-        <lastmod>2025-02-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <image:image>
-            <image:loc>https://clairvoyancemedium.github.io/images/rituels-amour.jpg</image:loc>
-            <image:title>Rituels d'Amour Puissants</image:title>
-            <image:caption>Découvrez comment les rituels d’amour peuvent renforcer vos relations.</image:caption>
-        </image:image>
-    </url>
-
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/voyance-email/</loc>
-        <lastmod>2025-02-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <image:image>
-            <image:loc>https://clairvoyancemedium.github.io/images/voyance-email.jpg</image:loc>
-            <image:title>Voyance par E-mail</image:title>
-            <image:caption>Posez vos questions à un voyant expérimenté par e-mail.</image:caption>
-        </image:image>
-    </url>
-
-    <!-- 🎥 Contenu Vidéo (avec ID réel de la vidéo) -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/videos/comment-seduire-vite/</loc>
-        <lastmod>2025-02-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        <video:video>
-            <video:player_loc>https://www.youtube.com/watch?v=ABCD1234EFG</video:player_loc>
-            <video:thumbnail_loc>https://clairvoyancemedium.github.io/images/video-thumbnail.jpg</video:thumbnail_loc>
-            <video:title>Comment séduire rapidement</video:title>
-            <video:description>Découvrez les meilleures techniques pour séduire efficacement.</video:description>
-        </video:video>
-    </url>
-
-    <!-- 📰 Articles Google News -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/news/nouvelle-technique-de-seduction/</loc>
-        <lastmod>2025-02-13</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.9</priority>
-        <news:news>
-            <news:publication>
-                <news:name>Voyance & Amour News</news:name>
-                <news:language>fr</news:language>
-            </news:publication>
-            <news:publication_date>2025-02-13</news:publication_date>
-            <news:title>Nouvelle Technique de Séduction Révélée</news:title>
-            <news:keywords>séduction, amour, relation</news:keywords>
-        </news:news>
-    </url>
-
-    <!-- 📱 Page optimisée pour mobile -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/mobile/</loc>
-        <lastmod>2025-02-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.9</priority>
-        <mobile:mobile/>
-    </url>
-
-    <!-- 📜 Pages légales -->
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/mentions-legales/</loc>
-        <lastmod>2025-01-10</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-
-    <url>
-        <loc>https://clairvoyancemedium.github.io/Comment-retrouver-l-amour-rapidement.github.io/cgv/</loc>
-        <lastmod>2025-01-10</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.5</priority>
-    </url>
-
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+  <!-- Glavna stranica za Srbiju (najviši prioritet) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/sr/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/sr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/it/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/ru/" />
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Kapsule za mršavljenje - brzo gubljenje kilograma</image:title>
+      <image:caption>Revolucionarna formula za trajno mršavljenje bez joj-joj efekta</image:caption>
+      <image:geo_location>Srbija</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Kako brzo smršati bez ponovnog gojenja</video:title>
+      <video:description>Otkrijte tajne naših kapsula za mršavljenje specijalno razvijenih za srpsko tržište</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Zdravlje</video:category>
+      <video:tag>mršavljenje</video:tag>
+      <video:tag>gubljenje kilograma</video:tag>
+      <video:author>Tim za mršavljenje</video:author>
+      <video:license>https://www.clairvoyancemedium.com/uslovi-koriscenja</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Početna stranica -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/sr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/en/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/fr/" />
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Najbolje kapsule za mršavljenje na tržištu</image:title>
+      <image:caption>Rezultati vidljivi već posle prve nedelje</image:caption>
+      <image:geo_location>Globalno</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Revolucija u mršavljenju</video:title>
+      <video:description>Kako su naše kapsule pomogle hiljadama ljudi da izgube višak kilograma</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Zdravlje</video:category>
+      <video:tag>kapsule</video:tag>
+      <video:tag>dijeta</video:tag>
+      <video:author>Tim za mršavljenje</video:author>
+      <video:license>https://www.clairvoyancemedium.com/uslovi-koriscenja</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Engleska verzija -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/en/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Weight Loss Capsules - Fast Results</image:title>
+      <image:caption>Premium formula for permanent weight loss</image:caption>
+      <image:geo_location>International</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>How to Lose Weight Fast Without Yo-Yo Effect</video:title>
+      <video:description>Discover the power of our weight loss capsules</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Health</video:category>
+      <video:tag>weight loss</video:tag>
+      <video:tag>diet</video:tag>
+      <video:author>Weight Loss Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/terms-of-use</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Francuska verzija -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/fr/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Gélules Minceur - Résultats Rapides</image:title>
+      <image:caption>Formule premium pour une perte de poids permanente</image:caption>
+      <image:geo_location>International</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Comment perdre du poids rapidement</video:title>
+      <video:description>Découvrez la puissance de nos gélules minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Santé</video:category>
+      <video:tag>minceur</video:tag>
+      <video:tag>régime</video:tag>
+      <video:author>Équipe Minceur</video:author>
+      <video:license>https://www.clairvoyancemedium.com/conditions-d-utilisation</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Nemačka verzija -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/de/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Abnehmkapseln - Schnelle Ergebnisse</image:title>
+      <image:caption>Premium-Formel für dauerhaften Gewichtsverlust</image:caption>
+      <image:geo_location>International</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Wie man schnell Gewicht verliert</video:title>
+      <video:description>Entdecken Sie die Kraft unserer Abnehmkapseln</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Gesundheit</video:category>
+      <video:tag>Abnehmen</video:tag>
+      <video:tag>Diät</video:tag>
+      <video:author>Abnehm-Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/nutzungsbedingungen</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Italijanska verzija -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/it/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Capsule Dimagranti - Risultati Veloci</image:title>
+      <image:caption>Formula premium per una perdita di peso permanente</image:caption>
+      <image:geo_location>International</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Come perdere peso velocemente</video:title>
+      <video:description>Scopri il potere delle nostre capsule dimagranti</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Salute</video:category>
+      <video:tag>dimagrimento</video:tag>
+      <video:tag>dieta</video:tag>
+      <video:author>Squadra Dimagrimento</video:author>
+      <video:license>https://www.clairvoyancemedium.com/termini-di-utilizzo</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Ruska verzija -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/ru/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Капсулы для похудения - Быстрый результат</image:title>
+      <image:caption>Премиум формула для постоянного снижения веса</image:caption>
+      <image:geo_location>International</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Как быстро похудеть</video:title>
+      <video:description>Откройте силу наших капсул для похудения</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Здоровье</video:category>
+      <video:tag>похудение</video:tag>
+      <video:tag>диета</video:tag>
+      <video:author>Команда похудения</video:author>
+      <video:license>https://www.clairvoyancemedium.com/условия-использования</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Blog sekcija -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/blog/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Blog o zdravom mršavljenju</image:title>
+      <image:caption>Saznajte najnovije savete i trikove za gubljenje kilograma</image:caption>
+      <image:geo_location>Srbija</image:geo_location>
+    </image:image>
+  </url>
+  <!-- Press reliz -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/blog/press-release/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <mobile:mobile/>
+    <news:news>
+      <news:publication>
+        <news:name>Kapsule za mršavljenje</news:name>
+        <news:language>sr</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-27</news:publication_date>
+      <news:title>Lansiranje revolucionarnih kapsula za mršavljenje na srpskom tržištu</news:title>
+      <news:keywords>mršavljenje, gubljenje kilograma, dijeta, suplementi, zdravlje</news:keywords>
+      <news:genres>PressRelease</news:genres>
+    </news:news>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Slika za press reliz</image:title>
+      <image:caption>Najava našeg programa za mršavljenje</image:caption>
+      <image:geo_location>Srbija</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Lansman kapsula za mršavljenje</video:title>
+      <video:description>Pogledajte naš revolucionarni proizvod za gubljenje kilograma</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Zdravlje</video:category>
+      <video:tag>suplementi</video:tag>
+      <video:tag>ishrana</video:tag>
+      <video:author>Tim za mršavljenje</video:author>
+      <video:license>https://www.clairvoyancemedium.com/uslovi-koriscenja</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Specifični blog post -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/blog/novi-clanak/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <mobile:mobile/>
+    <news:news>
+      <news:publication>
+        <news:name>Kapsule za mršavljenje</news:name>
+        <news:language>sr</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-27</news:publication_date>
+      <news:title>Kako brzo smršati bez opasnih efekata</news:title>
+      <news:keywords>brzo mršavljenje, zdrava dijeta, suplementi, ishrana</news:keywords>
+      <news:genres>Blog</news:genres>
+    </news:news>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Slika za blog post</image:title>
+      <image:caption>Saznajte kako pravilno koristiti naše kapsule</image:caption>
+      <image:geo_location>Srbija</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Masterclass o zdravom mršavljenju</video:title>
+      <video:description>Naučite napredne tehnike za gubljenje kilograma</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Ishrana</video:category>
+      <video:tag>dijeta</video:tag>
+      <video:tag>ishrana</video:tag>
+      <video:author>Tim za mršavljenje</video:author>
+      <video:license>https://www.clairvoyancemedium.com/uslovi-koriscenja</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Sekcija sa člancima -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/kapsule-za-mrsavljenje-za-brzo-gubljenje-kilograma-bez-ponovnog-gojenja.github.io/clanci/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Članci o mršavljenju i ishrani</image:title>
+      <image:caption>Dubinski uvidi u proces gubljenja kilograma</image:caption>
+      <image:geo_location>Srbija</image:geo_location>
+    </image:image>
+  </url>
 </urlset>
